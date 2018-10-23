@@ -6,6 +6,7 @@ Orange
 Blue
 Green
 indigo
+Recycle!
 Unicorn
 Yellow
 Red
